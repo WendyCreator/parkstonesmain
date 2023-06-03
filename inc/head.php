@@ -11,12 +11,12 @@
 
     <!-- Meta Tags -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="Homex template">
+    <meta name="description" content="Parkstones Properties">
     <meta name="keywords" content="">
     <meta name="author" content="Unicoder">
 
     <!-- Title -->
-    <title>Homex - Real Estate Template</title>
+    <title>Parkstones - Real Estate Enterprise</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">

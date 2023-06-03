@@ -71,14 +71,14 @@
                     <div class="row">
                         <div class="col">
                             <nav class="navbar navbar-expand-lg navbar-light secondary-nav hover-primary-nav">
-                                <a class="navbar-brand" href="index-1.html"><img class="nav-logo" src="assets/images/logo/logo.png" alt=""></a>
+                                <a class="navbar-brand" href="index"><img class="nav-logo" src="assets/images/logo/logo.png" alt=""></a>
                                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span class="navbar-toggler-icon"></span>
                                   </button>
                                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                     <ul class="navbar-nav me-auto">
-                                        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="index-1.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
-                                            <ul class="dropdown-menu">
+                                        <li class="nav-item dropdow"> <a class="nav-link dropdown-toggl" href="index" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
+                                            <!-- <ul class="dropdown-menu">
                                                 <li><a class="dropdown-item" href="index.html" target="_blank">Landing Page</a></li>
                                                 <li><a class="dropdown-item" href="index-1.html">Default Home</a></li>
                                                 <li><a class="dropdown-item" href="index-2.html">Investment Home</a></li>
@@ -89,10 +89,10 @@
                                                 <li><a class="dropdown-item" href="index-7.html">Map Home</a></li>
                                                 <li><a class="dropdown-item" href="https://unicoderbd.com/theme/html/homex-rtl/index-1.html" target="_blank">RTL Support</a></li>
                                                 <li><a class="dropdown-item" href="comming-soon.html">Coming Soon</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
-                                        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="property-agents-grid.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Agent</a>
-                                            <ul class="dropdown-menu">
+                                        <li class="nav-item dropdow"> <a class="nav-link dropdown-toggl" href="about" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+                                            <!-- <ul class="dropdown-menu">
                                                 <li class="dropdown"> <a class="dropdown-toggle dropdown-item" href="property-agents-grid.html">Property Agent</a>
                                                     <ul class="dropdown-menu">
                                                         <li><a class="dropdown-item" href="property-agents-grid.html">Grid View</a></li>
@@ -106,10 +106,10 @@
                                                     </ul>
                                                 </li>
                                                 <li><a class="dropdown-item" href="agent-details.html">Agent Details</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
-                                        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="property-grid-sidebar-left.html" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Listing</a>
-                                            <ul class="dropdown-menu">
+                                        <li class="nav-item dropdow d-non"> <a class="nav-link dropdown-toggl" href="properties" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Listing</a>
+                                            <!-- <ul class="dropdown-menu">
                                                 <li class="dropdown"> <a class="dropdown-toggle dropdown-item" href="property-grid-sidebar-left.html">Property Grid</a>
                                                     <ul class="dropdown-menu">
                                                         <li><a class="dropdown-item" href="property-grid-sidebar-left.html">Left Sidebar</a></li>
@@ -136,10 +136,10 @@
                                                         <li><a class="dropdown-item" href="property-list-simple-search.html">List Search</a></li>
                                                     </ul>
                                                 </li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
-                                        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Features</a>
-                                            <ul class="dropdown-menu">
+                                        <li class="nav-item dropdow"> <a class="nav-link dropdown-toggl" href="services" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+                                            <!-- <ul class="dropdown-menu">
                                                 <li class="dropdown"> <a class="dropdown-toggle dropdown-item" href="property-single-1.html">Single Property</a>
                                                     <ul class="dropdown-menu">
                                                         <li><a class="dropdown-item" href="property-single-1.html">Single Property 1</a></li>
@@ -173,9 +173,9 @@
                                                     </ul>
                                                 </li>
                                                 <li><a class="dropdown-item" href="submit-property.html">Submit Property</a></li>
-                                            </ul>
+                                            </ul> -->
                                         </li>
-                                        <li class="nav-item dropdown mega-menu-dropdown">
+                                        <li class="nav-item dropdown mega-menu-dropdown d-none">
                                             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
                                             <ul class="dropdown-menu mega-menu">
                                                 <li>
@@ -220,7 +220,7 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="nav-item"> <a class="nav-link" href="contact.html">Contact</a> </li>
+                                        <li class="nav-item"> <a class="nav-link" href="contact">Contact</a> </li>
                                     </ul>
                                     <a href="login.html" class="hover-text-primary text-secondary me-3">Login / Register</a>
                                     <a class="btn btn-primary d-none d-xl-block" href="dashboard-submit-property.html">Submit Peoperty</a>
