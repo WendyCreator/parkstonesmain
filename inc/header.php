@@ -222,8 +222,8 @@
                                         </li>
                                         <li class="nav-item"> <a class="nav-link" href="contact">Contact</a> </li>
                                     </ul>
-                                    <a href="login.html" class="hover-text-primary text-secondary me-3">Login / Register</a>
-                                    <a class="btn btn-primary d-none d-xl-block" href="dashboard-submit-property.html">Submit Peoperty</a>
+                                    <!-- <a href="login.html" class="hover-text-primary text-secondary me-3">Login / Register</a>git  -->
+                                    <a class="btn btn-primary d-none d-xl-block" href="contact">Get in Touch</a>
                                 </div>
                             </nav>
                         </div>
