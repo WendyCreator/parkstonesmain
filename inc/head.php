@@ -19,7 +19,8 @@
     <title>Parkstones - Real Estate Enterprise</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    <!-- <link rel="shortcut icon" href="assets/images/favicon.ico"> -->
+    <link rel="shortcut icon" href="assets/images/logo/parkstoneLOGO_1.jpg">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,500,600,700&amp;display=swap" rel="stylesheet">
