@@ -30,18 +30,31 @@ include_once 'inc/header.php';
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <h3 class="double-down-line-left text-secondary position-relative pb-4 mb-4">About Our Company</h3>
+                        <h3 class="double-down-line-left text-secondary position-relative pb-4 mb-4">Overview</h3>
                     </div>
                 </div>
                 <div class="row about-company">
                     <div class="col-lg-7">
                         <div class="about-content">
-                            <p>A tristique tempor quisque. Pulvinar. Sociosqu. Nostra tempor lacus iaculis enim consectetuer urna. Vehicula risus aliquet elementum proin senectus class vulputate dignissim. Potenti integer facilisis augue ridiculus. Augue
-                                adipiscing, viverra cras et fusce laoreet fringilla amet varius imperdiet bibendum arcu, luctus feugiat etiam, tincidunt vivamus nullam, ridiculus, vehicula vitae magnis non etiam lacus lacinia magnis lacus elementum vel.
-                                Laoreet mus nulla. Aliquam bibendum mi interdum in ridiculus ante.</p>
-                            <p>Dui consectetuer, ornare proin sed nullam nunc aenean dolor bibendum proin venenatis semper faucibus metus dolor lobortis mattis, rhoncus hymenaeos. Placerat vulputate porttitor quisque accumsan porta maecenas scelerisque montes
-                                dignissim mollis.</p>
-                            <img src="assets/images/about/02.png" alt=""> </div>
+                            <p>Introducing Parkstone Residences, a work of art, expertly constructed to disrupt the traditional norm in 
+                              terms of design, lifestyle, elegance and beauty that emanates from the inside out and yet simple. That’s 
+                              what Parkstone Residences represent. 
+
+                              This personally is shown not just in its design but also in its stylistic and seamless blend of 
+
+                              contemporary with a distinct and hefty close of Life and style</p>
+                            <p>7 Units of 5-bedroom duplex development of exceptional creativity, precise 
+
+finishing, and aesthetically distinct structure was inspired by a desire to 
+
+create remarkable apartments that reflect our customers’ personalities and 
+
+meet their needs, the unit is exquisite and fully furnished duplex sitting 
+
+gorgeously in a high end location with access to prime amenities and state 
+
+of the art facilities..</p>
+                            <img src="assets/images/about/02.pn" alt=""> </div>
                         <div class="fact-counter mt-5 md-mb-40">
                             <div class="row row-cols-md-3 row-cols-1 g-4">
                                 <div class="col">
@@ -88,27 +101,43 @@ include_once 'inc/header.php';
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="living-list pe-4">
-                            <h3 class="pb-4 mb-3 text-white">Make life for happy living</h3>
+                            <h3 class="pb-4 mb-3 text-white">You can Afford to Dwell Well...</h3>
                             <ul>
                                 <li class="mb-4 text-white d-flex">
                                     <i class="flaticon-reward flat-medium float-start d-table me-4 text-primary" aria-hidden="true"></i>
                                     <div class="ps-2">
-                                        <h5 class="mb-3">Experience Quality</h5>
-                                        <p>Ad non vivamus Elementum eget fringilla venenatis quisque, maecenas adipiscing aliquet justo. Libero. Gravida. Sapien, dolor nostra sem. Rutrum conubia inceptos egestas dolor class.</p>
+                                        <h5 class="mb-3">Experience Quality...</h5>
+                                        <p>If a project is intense valid and has a 
+
+powerful idea, its imperfection will be in 
+
+the perfection of its beauty</p>
                                     </div>
                                 </li>
                                 <li class="mb-4 text-white d-flex">
                                     <i class="flaticon-real-estate flat-medium float-start d-table me-4 text-primary" aria-hidden="true"></i>
                                     <div class="ps-2">
-                                        <h5 class="mb-3">Experience Quality</h5>
-                                        <p>Ad non vivamus Elementum eget fringilla venenatis quisque, maecenas adipiscing aliquet justo. Libero. Gravida. Sapien, dolor nostra sem. Rutrum conubia inceptos egestas dolor class.</p>
+                                        <h5 class="mb-3">Luxury Life Style you Deserve...</h5>
+                                        <p>
+                                        In real estate, you make 10% of your money 
+because you are a genius and 90% because 
+you catch a wave.
+                                        </p>
                                     </div>
                                 </li>
                                 <li class="mb-4 text-white d-flex">
                                     <i class="flaticon-seller flat-medium float-start d-table me-4 text-primary" aria-hidden="true"></i>
                                     <div class="ps-2">
-                                        <h5 class="mb-3">Experience Quality</h5>
-                                        <p>Ad non vivamus Elementum eget fringilla venenatis quisque, maecenas adipiscing aliquet justo. Libero. Gravida. Sapien, dolor nostra sem. Rutrum conubia inceptos egestas dolor class.</p>
+                                        <h5 class="mb-3">The finishing that matters...</h5>
+                                        <p>
+                                        When am working on a problem, I never think about 
+
+its beauty, I just think about how to solve the problem, 
+
+but when I finish it, if the solution is not
+
+beautiful, I know its wrong
+                                        </p>
                                     </div>
                                 </li>
                             </ul>
@@ -124,8 +153,8 @@ include_once 'inc/header.php';
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <h2 class="text-secondary double-down-line text-center">How It Work</h2>
-                        <span class="text-center mt-4 d-block mb-5">We listed our oppertunity and servies as a real estate company</span> </div>
+                        <h2 class="text-secondary double-down-line text-center">Why Buy Now?</h2>
+                        <span class="text-center mt-4 d-block mb-5">By dint of building, you get to be a good architect</span> </div>
                 </div>
                 <div class="row row-cols-md-3 row-cols-1">
                     <div class="col">
@@ -136,8 +165,8 @@ include_once 'inc/header.php';
                                     <i class="flaticon-investor flat-medium icon-primary"></i>
                                 </div>
                             </div>
-                            <h5 class="text-secondary mt-5 mb-4">Discussion</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <h5 class="text-secondary mt-5 mb-4">Security</h5>
+                            <p>Located in a Secured/High-end Estate</p>
                         </div>
                     </div>
                     <div class="col">
@@ -148,8 +177,8 @@ include_once 'inc/header.php';
                                     <i class="flaticon-search flat-medium icon-primary"></i>
                                 </div>
                             </div>
-                            <h5 class="text-secondary mt-5 mb-4">Files Review</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <h5 class="text-secondary mt-5 mb-4">Treated water</h5>
+                            <p>Reverse Osmosis Water Treatment</p>
                         </div>
                     </div>
                     <div class="col">
@@ -160,8 +189,8 @@ include_once 'inc/header.php';
                                     <i class="flaticon-handshake flat-medium icon-primary"></i>
                                 </div>
                             </div>
-                            <h5 class="text-secondary mt-5 mb-4">Acquire</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <h5 class="text-secondary mt-5 mb-4">Newly Constructed</h5>
+                            <p>Newly Constructed Alternative to Freedom Way</p>
                         </div>
                     </div>
                     <div class="col">
@@ -172,8 +201,8 @@ include_once 'inc/header.php';
                                     <i class="flaticon-strategy flat-medium icon-primary"></i>
                                 </div>
                             </div>
-                            <h5 class="text-secondary mt-5 mb-4">Managment</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <h5 class="text-secondary mt-5 mb-4">No Flooding</h5>
+                            <p>property is not Endangered to flood</p>
                         </div>
                     </div>
                     <div class="col">
@@ -184,8 +213,8 @@ include_once 'inc/header.php';
                                     <i class="flaticon-diagram flat-medium icon-primary"></i>
                                 </div>
                             </div>
-                            <h5 class="text-secondary mt-5 mb-4">Survey</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <h5 class="text-secondary mt-5 mb-4">Route to Ajah</h5>
+                            <p>Alternative Route Leading to Ajah</p>
                         </div>
                     </div>
                     <div class="col">
@@ -196,14 +225,17 @@ include_once 'inc/header.php';
                                     <i class="flaticon-money flat-medium icon-primary"></i>
                                 </div>
                             </div>
-                            <h5 class="text-secondary mt-5 mb-4">Collect</h5>
-                            <p>Nascetur cubilia sociosqu aliquet ut elit nascetur nullam duis tincidunt nisl non quisque vestibulum platea ornare ridiculus.</p>
+                            <h5 class="text-secondary mt-5 mb-4">Fully Furnished</h5>
+                            <p>Fully Furnished Contemporary</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!--============== How it work Section End ==============-->
+
+        <?php include_once 'inc/videos.php' ?> 
+
 
         <!--============== Achievement Section Start ==============-->
         <div class="full-row overlay-secondary" style="background-image: url( 'assets/images/counterbg.jpg'); background-size: cover; background-position: center center; background-repeat: no-repeat;">
@@ -212,25 +244,25 @@ include_once 'inc/header.php';
                     <div class="row row-cols-lg-4 row-cols-sm-2 row-cols-1 g-4">
                         <div class="col">
                             <div class="count wow text-center" data-wow-duration="300ms"> <i class="flaticon-house flat-large text-white" aria-hidden="true"></i>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="1732">0</div>
+                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="150">0</div>
                                 <div class="text-white h5">Property Available</div>
                             </div>
                         </div>
                         <div class="col">
                             <div class="count wow text-center" data-wow-duration="300ms"> <i class="flaticon-man flat-large text-white" aria-hidden="true"></i>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="341">0</div>
+                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="360">0</div>
                                 <div class="text-white h5">Registered Agents</div>
                             </div>
                         </div>
                         <div class="col">
                             <div class="count wow text-center" data-wow-duration="300ms"> <i class="flaticon-invention flat-large text-white" aria-hidden="true"></i>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="2350">0</div>
+                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="550">0</div>
                                 <div class="text-white h5">People Are Invested</div>
                             </div>
                         </div>
                         <div class="col">
                             <div class="count wow text-center" data-wow-duration="300ms"> <i class="flaticon-investment flat-large text-white" aria-hidden="true"></i>
-                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="13780">0</div>
+                                <div class="count-num text-primary my-4" data-speed="3000" data-stop="130">0</div>
                                 <div class="text-white h5">Total Investment</div>
                             </div>
                         </div>
@@ -245,14 +277,14 @@ include_once 'inc/header.php';
             <div class="container">
                 <div class="row">
                     <div class="col">
-                        <h2 class="text-secondary double-down-line text-center">Our Agents</h2>
-                        <span class="text-center mt-4 d-block mb-5">Process to get your right one, almost easy, flexible and fun.</span>
+                        <h2 class="text-secondary double-down-line text-center">Our Team</h2>
+                        <span class="text-center mt-4 d-block mb-5">Providing a Blend of Luxury and Simplicity</span>
                     </div>
                 </div>
                 <div class="row row-cols-lg-3 row-cols-md-2 row-cols-1 g-4">
                     <div class="col">
                         <div class="hover-zoomer bg-white shadow-one">
-                            <div class="overflow-hidden"> <img src="assets/images/team/01.png" alt=""> </div>
+                            <div class="overflow-hidden"> <img src="assets/images/team/team4.jpg" alt=""> </div>
                             <div class="py-3 text-center">
                                 <h5 class="text-secondary hover-text-primary"><a href="#">Karen Eilla Boyette</a></h5>
                                 <span>Appartment Agent</span>
@@ -261,7 +293,7 @@ include_once 'inc/header.php';
                     </div>
                     <div class="col">
                         <div class="hover-zoomer bg-white shadow-one">
-                            <div class="overflow-hidden"> <img src="assets/images/team/02.png" alt=""> </div>
+                            <div class="overflow-hidden"> <img src="assets/images/team/team6.jpg" alt=""> </div>
                             <div class="py-3 text-center">
                                 <h5 class="text-secondary hover-text-primary"><a href="#">Walter Devid Moye</a></h5>
                                 <span>Condos Agent</span>
@@ -270,7 +302,7 @@ include_once 'inc/header.php';
                     </div>
                     <div class="col">
                         <div class="hover-zoomer bg-white shadow-one">
-                            <div class="overflow-hidden"> <img src="assets/images/team/03.png" alt=""> </div>
+                            <div class="overflow-hidden"> <img src="assets/images/team/team1.jpg" alt=""> </div>
                             <div class="py-3 text-center">
                                 <h5 class="text-secondary hover-text-primary"><a href="#">Linda Dina Pate</a></h5>
                                 <span>Commercial Building Agent</span>

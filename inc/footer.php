@@ -7,12 +7,20 @@
                                 <div class="col-lg-4">
                                     <div class="footer-widget">
                                         <div class="footer-logo mb-4">
-                                            <a href="#"><img class="logo-bottom" src="assets/images/logo/logo.png" alt="image"></a>
+                                            <a href="#"><img class="logo-botto" src="assets/images/logo/parkstoneLOGO_1.jpg" alt="image"></a>
                                         </div>
-                                        <p class="pb-20">Risus commodo congue augue phasellus morbi hymenaeos ante tincidunt eu orci dictum bibendum lacus platea primis mi lacinia felis gravida natoque bibendum cubilia montes tristique et arcu blandit risus. Lobortis
-                                            dignissim nam.
+                                        <p class="pb-20">
+
+                                        Real Estate cannot be lost or stolen, nor can it be carried 
+away. Purchased with common sense,
+
+paid for in full, and managed with reasonable
+
+care, it is about the safest investment 
+
+in the world
                                         </p>
-                                        <a class="btn btn-primary mt-4" href="#">Register Now</a>
+                                        <!-- <a class="btn btn-primary mt-4" href="#">Register Now</a> -->
                                     </div>
                                 </div>
                                 <div class="col-lg-8">
@@ -47,9 +55,9 @@
                                             <div class="footer-widget">
                                                 <h4 class="widget-title text-secondary double-down-line-left position-relative">Contact Us</h4>
                                                 <ul>
-                                                    <li>Collins Street West, Victoria 8007, Australia</li>
-                                                    <li>+1 246-345-0695</li>
-                                                    <li>helpline@homex.com</li>
+                                                    <li>1707a Olugbosi Close Victoria Islan</li>
+                                                    <li>+2348060575282, +2348057333333</li>
+                                                    <li>contact@parkstonepropertiesltd.com</li>
                                                 </ul>
                                             </div>
                                             <div class="footer-widget media-widget mt-4 text-secondary hover-text-primary">
@@ -71,7 +79,7 @@
             <div class="copyright">
                 <div class="container">
                     <div class="row row-cols-sm-2 row-cols-1">
-                        <div class="col"> <span>© 2021 Homex All right reserved</span> </div>
+                        <div class="col"> <span>© 2023 Parkstone All right reserved</span> </div>
                         <div class="col">
                             <ul class="line-menu text-ordinary float-end">
                                 <li><a href="#">Privacy & Policy</a></li>
@@ -111,6 +119,40 @@
     <script src="assets/js/validate.js"></script>
     <script src="assets/js/jquery.cookie.js"></script>
     <script src="assets/js/custom.js"></script>
+<script src="assets/js/dist/lit/lity.min.js"></script>
+
+
+    <script>
+        $(document).ready(function(){
+  $(".owl-carousel").owlCarousel();
+
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    items:1,
+        merge:true,
+        loop:true,
+        margin:10,
+        video:true,
+        lazyLoad:true,
+        center:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:5
+        }
+    }
+})
+});
+
+
+    </script>
 </body>
 
 

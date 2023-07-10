@@ -21,9 +21,10 @@
                     <div class="row">
                         <div class="col-md-8">
                             <div class="d-flex h-100 align-items-center justify-content-start">
-                                <div class="me-3"><a href="callto:012345678102" class="text-white"><i class="fas fa-phone-alt text-primary me-1"></i>(012) 345 678 102</a></div>
-                                <div class="me-3"><a href="mailto:office@example.com" class="text-white"><i class="fas fa-envelope text-primary me-1"></i>office@example.com</a></div>
-                                <div class="dropdown hover-dropdown">
+                                <div class="me-3"><a href="callto:+2348060575282" class="text-white"><i class="fas fa-phone-alt text-primary me-1"></i>08060575282, 08057333333</a></div>
+                                <div class="me-3"><a href="mailto:office@example.com" class="text-white"><i class="fas fa-envelope text-primary me-1"></i>info@parkstoneproperties.com</a></div>
+                                <div class="me-3"><a href="#" class="text-white"><i class="fas fa-map-marker-alt text-primary me-1"></i>1707a Olugbosi Close Victoria Island</a></div>
+                                <div class="dropdown hover-dropdown d-none">
                                     <button class="dropdown-toggle text-white" type="button" data-bs-toggle="dropdown">Help and Support</button>
                                     <ul class="dropdown-menu">
                                         <li><a class="dropdown-item" href="how-it-work.html">How It Work</a></li>
@@ -108,7 +109,7 @@
                                                 <li><a class="dropdown-item" href="agent-details.html">Agent Details</a></li>
                                             </ul> -->
                                         </li>
-                                        <li class="nav-item dropdow d-non"> <a class="nav-link dropdown-toggl" href="properties" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Listing</a>
+                                        <li class="nav-item dropdow d-none"> <a class="nav-link dropdown-toggl" href="properties" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Listing</a>
                                             <!-- <ul class="dropdown-menu">
                                                 <li class="dropdown"> <a class="dropdown-toggle dropdown-item" href="property-grid-sidebar-left.html">Property Grid</a>
                                                     <ul class="dropdown-menu">
@@ -138,7 +139,7 @@
                                                 </li>
                                             </ul> -->
                                         </li>
-                                        <li class="nav-item dropdow"> <a class="nav-link dropdown-toggl" href="services" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
+                                        <li class="nav-item dropdow d-none"> <a class="nav-link dropdown-toggl" href="services" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
                                             <!-- <ul class="dropdown-menu">
                                                 <li class="dropdown"> <a class="dropdown-toggle dropdown-item" href="property-single-1.html">Single Property</a>
                                                     <ul class="dropdown-menu">
@@ -223,7 +224,7 @@
                                         <li class="nav-item"> <a class="nav-link" href="contact">Contact</a> </li>
                                     </ul>
                                     <!-- <a href="login.html" class="hover-text-primary text-secondary me-3">Login / Register</a>git  -->
-                                    <a class="btn btn-primary d-none d-xl-block" href="contact">Get in Touch</a>
+                                    <a class="btn btn-primary d-none d-xl-block" href="https://kuula.co/share/collection/7Jh2s?logo=1&info=1&fs=1&vr=0&zoom=1&autorotate=0.16&thumbs=1" target='_blank'>Take a Tour</a>
                                 </div>
                             </nav>
                         </div>

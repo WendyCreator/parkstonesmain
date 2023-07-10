@@ -45,11 +45,17 @@ Theme Color All Codes Variable
 Font Variable
 ==================================*/
 :root {
-	 --theme-ordinary-font: 'Muli', sans-serif;  /* Font use for normal text and general text ok*/
+	 /* --theme-ordinary-font: 'Muli', sans-serif;  Font use for normal text and general text ok */
+	 --theme-ordinary-font: 'Poppins', sans-serif; ;
 }
 :root {
-	 --theme-highlight-font: 'Comfortaa', cursive;  /* Font used in title or special area ok*/
+	 /* --theme-highlight-font: 'Comfortaa', cursive;  Font used in title or special area ok */
+	 --theme-highlight-font: 'Roboto', cursive;  
 }
-
+.fancy-text{
+   font-family: 'Tangerine', cursive;
+   color:var(--theme-primary-color);
+   font-size: 3.5rem;
+}
 
 

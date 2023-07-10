@@ -122,10 +122,13 @@ Default Style Start
     overflow: hidden;
     position: relative
 }
+:root{
+font-size: 100%;
+}
 
 body {
     font-family: var(--theme-ordinary-font);
-    font-size: 15px;
+    font-size: 100%;
     line-height: 28px;
 }
 
